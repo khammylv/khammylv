@@ -1,10 +1,10 @@
 
 <h1 align="center">Hola 👋, soy Camila</h1>
-<h3 align="center">Soy una persona innovadora y con la capacidad de trabajar en equipo. En el 2021 decidí reinventar mi vida y conocí el desarrollo web, lo que más me gusta es poder transformar las ideas en algo real en cada proyecto.</h3>
+<h3 align="center">Soy una apasionada de la tecnología y el desarrollo web. Aunque todavía no cuento con experiencia laboral en este campo, he adquirido habilidades en programación y diseño web a través de proyectos personales y cursos en línea. Me considero una persona innovadora, siempre dispuesta a aprender cosas nuevas y afrontar nuevos retos. También disfruto trabajar en equipo y colaborar con otros profesionales en el desarrollo de soluciones creativas y efectivas. Ser desarrolladora web me fascina porque me permite explorar mi creatividad y contribuir al desarrollo de proyectos que tienen un impacto en la sociedad. Estoy emocionada de comenzar mi carrera en este campo y estoy lista para enfrentar cualquier desafío que se presente.</h3>
 
 - 🔭 Actualmente estoy trabajando en [Una app para tomar pedidos en un restaurante](https://github.com/khammylv/DEV001-burger-queen-api-client)
 
-- 🌱 Actualmente estoy aprendiendo **Angular**
+- 🌱 Actualmente estoy aprendiendo **Angular** **TypeScript** **Node.js**
 
 - 📫 Cómo localizarme **khammylv@gmail.com**
 
